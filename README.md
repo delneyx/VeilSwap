@@ -30,7 +30,8 @@ A starter repository for an EVM smart-contract project with a **clean, productio
 ### Requirements
 - Node.js 18+ recommended
 - npm (or pnpm/yarn if you prefer)
-
+### Swap flow
+![VeilSwap Swap Flow](assets/architecture/flow.png)
 ### Install & run
 ```bash
 cp .env.example .env
