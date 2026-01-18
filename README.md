@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://i.imgur.com/2PGETZx.jpeg" alt="VeilSwap Banner" />
+</p>
+<p align="center">
+  <a href="https://www.npmjs.com/package/@veilswapapp/sdk">
+    <img src="https://img.shields.io/npm/v/@veilswapapp/sdk?color=00e5ff&label=npm&logo=npm" />
+  </a>
+  <a href="https://www.npmjs.com/package/@veilswapapp/sdk">
+    <img src="https://img.shields.io/npm/dm/@veilswapapp/sdk?color=00e5ff&label=downloads" />
+  </a>
+</p>
 # VeilSwap
 
 A starter repository for an EVM smart-contract project with a **clean, production-lean layout** and room to plug in **zero-knowledge (ZK) verification** components.
@@ -32,6 +43,23 @@ npm test
 ```bash
 npm run deploy:local
 ```
+## SDK (npm)
+
+VeilSwap provides a developer-friendly SDK for integrating privacy-preserving swaps into applications and services.
+
+### Installation
+
+    npm install @veilswapapp/sdk
+
+### Usage
+
+    import { veilSwapInfo } from "@veilswapapp/sdk";
+
+    console.log(veilSwapInfo());
+
+### Package
+
+npm: https://www.npmjs.com/package/@veilswapapp/sdk
 
 ## ZK integration (high level)
 
@@ -43,7 +71,7 @@ Typical integration steps:
 
 See `circuits/README.md` for guidance and placeholders.
 
-## Scripts
+## Scriptsƒ
 
 - `npm run compile` — compile contracts
 - `npm test` — run tests
