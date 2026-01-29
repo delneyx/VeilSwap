@@ -1,84 +1,15 @@
-<p align="center">
-  <img src="https://i.imgur.com/2PGETZx.jpeg" alt="VeilSwap Banner" />
-</p>
-<p align="center">
-  <a href="https://www.npmjs.com/package/@veilswapapp/sdk">
-    <img src="https://img.shields.io/npm/v/@veilswapapp/sdk?color=00e5ff&label=npm&logo=npm" />
-  </a>
-  <a href="https://www.npmjs.com/package/@veilswapapp/sdk">
-    <img src="https://img.shields.io/npm/dm/@veilswapapp/sdk?color=00e5ff&label=downloads" />
-  </a>
-</p>
-# VeilSwap
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee&size=50&duration=1900&pause=50&color=C800008D&center=true&multiline=true&repeat=false&width=1300&height=500&separator=%3C&lines=My+flesh+is+so+weak...%3CAnd+my+spirit+is+not+so+willing%2C+baby.%3CTurn+the+other+cheek...%3CAnd+I'll+spank+ya+right+on+ya+ass%2C+baby!%3C++++%3CSweet+religion!%3CHelp+me+Satan%2C+help+me+Satan;%3CSweet+religion!%3CDrag+me+down+into+your+basement!+%3E_O" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee&size=30&duration=10000&pause=900&color=FFFFFFAE&center=true&repeat=false&width=1200&height=80&lines=my+grammar+is+bad+since+im+not+an+english+speakin+person!+sorry..." alt="Typing SVG" /></a>
 
-A starter repository for an EVM smart-contract project with a **clean, production-lean layout** and room to plug in **zero-knowledge (ZK) verification** components.
-
-> Note on privacy: This template focuses on **legitimate privacy-by-design** patterns (e.g., selective disclosure, proving properties without revealing private inputs). It does **not** include tooling intended to conceal illicit fund flows or bypass compliance.
-
-## What's inside
-
-- `contracts/` — Solidity contracts (example: `VeilSwapRouter` + `IZKVerifier` interface)
-- `circuits/` — place for ZK circuits (currently scaffolding + docs)
-- `scripts/` — Hardhat deploy scripts
-- `test/` — basic tests (Hardhat + Chai)
-- `.github/workflows/ci.yml` — GitHub Actions CI (lint + test)
-- `.env.example` — environment variable template
-- Formatting & linting: Prettier + Solhint
-
-## Quick start
-
-### Requirements
-- Node.js 18+ recommended
-- npm (or pnpm/yarn if you prefer)
-### Swap flow
-![VeilSwap Swap Flow](assets/architecture/flow.png)
-### Install & run
-```bash
-cp .env.example .env
-npm install
-npm run compile
-npm test
-```
-
-### Local deploy (Hardhat)
-```bash
-npm run deploy:local
-```
-## SDK (npm)
-
-VeilSwap provides a developer-friendly SDK for integrating privacy-preserving swaps into applications and services.
-
-### Installation
-
-    npm install @veilswapapp/sdk
-
-### Usage
-
-    import { veilSwapInfo } from "@veilswapapp/sdk";
-
-    console.log(veilSwapInfo());
-
-### Package
-
-npm: https://www.npmjs.com/package/@veilswapapp/sdk
-
-## ZK integration (high level)
-
-The repository includes an `IZKVerifier` interface and an example router contract wired to call a verifier.
-Typical integration steps:
-1. Build a circuit (e.g., Circom) that outputs a proof + public signals.
-2. Generate a verifier contract (e.g., Groth16 verifier) and deploy it.
-3. Have your on-chain contracts validate proofs via the verifier interface.
-
-See `circuits/README.md` for guidance and placeholders.
-
-## Scriptsƒ
-
-- `npm run compile` — compile contracts
-- `npm test` — run tests
-- `npm run deploy:local` — deploy to local Hardhat network
-- `npm run lint` — run Solhint
-
-## License
-
-MIT — see `LICENSE`.
+<p align="center">  ══════════════════════════════════════════════════════════════════════
+<p align="center"><img width="30" height="30" alt="изображение" src="https://github.com/user-attachments/assets/14cff7cf-1c2a-4e0e-af6f-ebd75e5a1894" /><img width="112" height="30" alt="изображение" src="https://github.com/user-attachments/assets/07eb882c-6fb3-4a5e-a2f1-806cba02f4b9" /> hellour! I'm known as delneyx or bloodlust! I go by he/any pronouns ദ്ദി◝ ⩊ ◜.ᐟ
+<p align="center">13 y.o. | INFJ-A | Artist | White Knight syndrome | Paranoic | Trust issues
+<p align="center">people may think im rude but im js rlly straightforward (｡ᵕ ◞ _◟) 
+     <p align="center">my birthday date is 02.01.2012! (1st of feb)
+      ill be 14 so soon aaaaa! excited sounds
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee&size=30&letterSpacing=1px&pause=100&color=FFFFFFAE&center=true&width=1000&height=80&lines=it+hurts+to+have+a+sharp+tongue+yet+kind+heart...;i+liek+my+bestie+Meimei+(%CB%B6%CB%83+%E1%B5%95+%CB%82%CB%B6)+.%E1%90%9F.%E1%90%9F;i'll+protect+you+even+if+i'll+have+to+beef+with+sm1!;you're+still+(%C2%AC_%C2%AC%22)+watching%3F..." alt="Typing SVG" /></a>
+<p align="center">══════════════════════════════════════════════════════════════════════
+<p align="center">MY FANDOMS LIST! ദ്ദി(ᵔᗜᵔ)
+<p align="center"> MAIN FDS: Dandy's world ; Meleeniacs
+  <p align="center"> OTHERS: Amanda the adventurer ; JSAB ; AvA / AvM ; Bad End Theater ; Senchous ; FNAF ; The Amazing Digital Circus ; Duffy's Digital Circus ; Hollow knight ; Knights of Guinevere ; Murder Drones ; Tiny Bunny ; Gravity Falls ; I'll add more fandoms later!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee&size=30&duration=10000&pause=900&color=FFFFFF2C&center=true&repeat=false&width=1200&height=80&lines=i'm+watching+you+too." alt="Typing SVG" /></a>
