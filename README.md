@@ -11,5 +11,5 @@
 <p align="center">══════════════════════════════════════════════════════════════════════
 <p align="center">MY FANDOMS LIST! ദ്ദി(ᵔᗜᵔ)
 <p align="center"> MAIN FDS: Dandy's world ; Meleeniacs
-  <p align="center"> OTHERS: Amanda the adventurer ; JSAB ; AvA / AvM ; Bad End Theater ; Senchous ; FNAF ; The Amazing Digital Circus ; Duffy's Digital Circus ; Hollow knight ; Knights of Guinevere ; Murder Drones ; Tiny Bunny ; Gravity Falls ; I'll add more fandoms later!
+  <p align="center"> OTHERS: Amanda the adventurer ; JSAB ; AvA / AvM ; Bad End Theater ; Senchous ; FNAF ; The Amazing Digital Circus ; Duffy's Digital Circus ; Hollow knight ; Knights of Guinevere ; Murder Drones ; Tiny Bunny ; Gravity Falls ; I'll add more fandoms later!!
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee&size=30&duration=10000&pause=900&color=FFFFFF2C&center=true&repeat=false&width=1200&height=80&lines=i'm+watching+you+too." alt="Typing SVG" /></a>
